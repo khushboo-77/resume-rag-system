@@ -1,0 +1,13 @@
+
+John Smith
+
+Skills
+Python
+Java
+Data Science
+
+Experience
+3 years experience in software development and AI systems.
+
+Education
+MS Data Science
