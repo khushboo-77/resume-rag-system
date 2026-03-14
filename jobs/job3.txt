@@ -1,0 +1,13 @@
+Data Scientist
+
+Requirements:
+- 4+ years experience in Data Science
+- Strong Python programming
+- Machine Learning and Deep Learning
+- Experience with TensorFlow or PyTorch
+- Knowledge of SQL and data analysis
+
+Responsibilities:
+- Build predictive models
+- Analyze large datasets
+- Deploy machine learning pipelines

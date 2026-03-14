@@ -1,0 +1,13 @@
+Machine Learning Engineer
+
+Requirements:
+- 5+ years experience in Machine Learning
+- Strong Python programming
+- Experience with TensorFlow or PyTorch
+- Knowledge of AWS and Docker
+- Experience deploying ML models
+
+Responsibilities:
+- Build ML pipelines
+- Deploy AI models
+- Optimize model performance

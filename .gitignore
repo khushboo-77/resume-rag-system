@@ -1,0 +1,4 @@
+venv/
+resume_db/
+__pycache__/
+*.pyc

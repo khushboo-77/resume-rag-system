@@ -1,0 +1,13 @@
+Backend Software Engineer
+
+Requirements:
+- 3+ years experience in backend development
+- Strong Java or Python skills
+- Experience with SQL databases
+- Knowledge of Docker and cloud services
+- Understanding of REST APIs
+
+Responsibilities:
+- Develop scalable backend systems
+- Design APIs
+- Work with cloud infrastructure
